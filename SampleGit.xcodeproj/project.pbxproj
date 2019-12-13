@@ -13,6 +13,7 @@
 		783A6F1B23A320FA00FD92B0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 783A6F1923A320FA00FD92B0 /* Main.storyboard */; };
 		783A6F1D23A3210700FD92B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 783A6F1C23A3210700FD92B0 /* Assets.xcassets */; };
 		783A6F2023A3210700FD92B0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 783A6F1E23A3210700FD92B0 /* LaunchScreen.storyboard */; };
+		783A6F2823A322A600FD92B0 /* UploadimagesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 783A6F2723A322A600FD92B0 /* UploadimagesViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		783A6F1C23A3210700FD92B0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		783A6F1F23A3210700FD92B0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		783A6F2123A3210700FD92B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		783A6F2723A322A600FD92B0 /* UploadimagesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UploadimagesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				783A6F1C23A3210700FD92B0 /* Assets.xcassets */,
 				783A6F1E23A3210700FD92B0 /* LaunchScreen.storyboard */,
 				783A6F2123A3210700FD92B0 /* Info.plist */,
+				783A6F2723A322A600FD92B0 /* UploadimagesViewController.swift */,
 			);
 			path = SampleGit;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				783A6F1823A320FA00FD92B0 /* ViewController.swift in Sources */,
 				783A6F1423A320FA00FD92B0 /* AppDelegate.swift in Sources */,
+				783A6F2823A322A600FD92B0 /* UploadimagesViewController.swift in Sources */,
 				783A6F1623A320FA00FD92B0 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

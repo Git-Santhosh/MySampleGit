@@ -9,12 +9,16 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+let images = UploadimagesViewController()
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        self.displayimages()
     }
 
+    func displayimages(){
+        print("uploadImages  added some files")
+    }
 
 }
 
